@@ -18,3 +18,12 @@ This is simple webpage that would generate random strong passwords
 # Requirements
 
 1) it is recommended to have an internet connection
+
+# Some screenshots for better understanding
+
+![Screenshot from 2021-11-14 11-23-30](https://user-images.githubusercontent.com/73157279/141669453-7dbcaa85-e5da-40e5-b799-7136255f61f6.png)
+
+![Screenshot from 2021-11-14 11-23-10](https://user-images.githubusercontent.com/73157279/141669470-f79587a8-a191-4035-a2e2-ac4dad9a51e7.png)
+
+![Screenshot from 2021-11-14 11-22-53](https://user-images.githubusercontent.com/73157279/141669494-6367a41f-b7ae-435e-95ee-55e80a4587a9.png)
+
