@@ -7,7 +7,7 @@ This is simple webpage that would generate random strong passwords
 # Features
 
 1) Check if the password is strong enough
-2) generate strong of varying length
+2) generate strong passwords of varying length
 3) copy the password directly to clipboard with single click
 
 # How to host locally ?
